@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0652B335-6A2D-0147-4657-A2A7173E6D5A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/SelectKartCanvas.cs">
+    <Files>
+      <File FileName="Assets/scripts/SelectKartCanvas.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="913911da-7e2b-4647-9817-4a28bcb6b60a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
