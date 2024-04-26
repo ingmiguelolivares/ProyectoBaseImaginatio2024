@@ -51,9 +51,9 @@ public class SelectKartCanvas : MonoBehaviour
             Debug.Log("Directories in " + path + ":");
             foreach (string directory in directories)
             {
-                string modifiedString = directory.Replace(path + "/", "");
-                Debug.Log(modifiedString);
-                options.Add(modifiedString);
+                string modifiedString = directory.Replace(path, "");
+                Debug.Log(modifiedString.Substring(1));
+                options.Add(modifiedString.Substring(1));
             }
         }
         else
